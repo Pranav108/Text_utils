@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Pranav108/ReactfirstTrial.git/static/css/main.0385f92f.chunk.css",
+    "main.js": "/Pranav108/ReactfirstTrial.git/static/js/main.171bf460.chunk.js",
+    "main.js.map": "/Pranav108/ReactfirstTrial.git/static/js/main.171bf460.chunk.js.map",
+    "runtime-main.js": "/Pranav108/ReactfirstTrial.git/static/js/runtime-main.7ffed2ab.js",
+    "runtime-main.js.map": "/Pranav108/ReactfirstTrial.git/static/js/runtime-main.7ffed2ab.js.map",
+    "static/js/2.130998b4.chunk.js": "/Pranav108/ReactfirstTrial.git/static/js/2.130998b4.chunk.js",
+    "static/js/2.130998b4.chunk.js.map": "/Pranav108/ReactfirstTrial.git/static/js/2.130998b4.chunk.js.map",
+    "static/js/3.a3300bf4.chunk.js": "/Pranav108/ReactfirstTrial.git/static/js/3.a3300bf4.chunk.js",
+    "static/js/3.a3300bf4.chunk.js.map": "/Pranav108/ReactfirstTrial.git/static/js/3.a3300bf4.chunk.js.map",
+    "index.html": "/Pranav108/ReactfirstTrial.git/index.html",
+    "static/css/main.0385f92f.chunk.css.map": "/Pranav108/ReactfirstTrial.git/static/css/main.0385f92f.chunk.css.map",
+    "static/js/2.130998b4.chunk.js.LICENSE.txt": "/Pranav108/ReactfirstTrial.git/static/js/2.130998b4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ffed2ab.js",
+    "static/js/2.130998b4.chunk.js",
+    "static/css/main.0385f92f.chunk.css",
+    "static/js/main.171bf460.chunk.js"
+  ]
+}
