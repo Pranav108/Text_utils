@@ -13,6 +13,7 @@ It is basically web application where you can use various features which you hav
 - New Line Remove
 - Extra Spaces Remover
 - Numbers Remover.
+- Support both dark and light theme
 
 ## Tech Stack 💻
 
@@ -38,9 +39,8 @@ The project Template can be used to build bigger projects
 
 ## Live Application URL
 
-## [Text-Utils](https://thawing-dusk-93582.herokuapp.com/)
-
-This URL has the application deployed in
+The Application is deployed in [Text-Utils](https://thawing-dusk-93582.herokuapp.com/)
+Click on the link to see the application
 
 ## Prerequisites
 
@@ -55,12 +55,6 @@ Install create-react-app npm package globally. This will help to easily run the 
 ```bash
 npm install -g create-react-app
 ```
-
-### Live Application URL
-
-The Application is deployed in https://aditya-sridhar.github.io/simple-reactjs-app
-
-Click on the link to see the application
 
 ### Cloning and Running the Application in local
 
